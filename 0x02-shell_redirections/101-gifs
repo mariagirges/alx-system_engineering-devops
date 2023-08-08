@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 2 -type f
+find . -maxdepth 1 -type f
