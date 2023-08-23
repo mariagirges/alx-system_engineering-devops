@@ -1,2 +1,4 @@
 #!/bin/bash
-BEST="School"
+local BEST="School"
+echo -e "School"
+echo $BEST
