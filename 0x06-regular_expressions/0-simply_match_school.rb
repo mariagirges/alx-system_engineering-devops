@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-#The regular expression must match School
-puts ARGV[0].scan(/Scho*l/).join
+
+puts ARGV[0].scan(/school?/).join
